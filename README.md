@@ -1,8 +1,6 @@
 # pihole_adlists
 <h3>Adlists for piHole</h3>
 
-<b>Adlists</b>
-
 https://adaway.org/hosts.txt
 
 https://blocklistproject.github.io/Lists/abuse.txt
