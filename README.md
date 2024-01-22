@@ -29,8 +29,6 @@ https://v.firebog.net/hosts/Prigent-Malware.txt
 
 https://v.firebog.net/hosts/Prigent-Phishing.txt
 
-https://v.firebog.net/hosts/Shalla-mal.txt
-
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
